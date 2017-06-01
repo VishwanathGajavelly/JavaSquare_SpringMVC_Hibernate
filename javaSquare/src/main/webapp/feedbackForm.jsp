@@ -12,9 +12,15 @@
 		<link rel = "stylesheet" type = "text/css" href="styles\supporting.css" /> 
   		<link rel = "stylesheet" type = "text/css" href="styles\media.css" /> 
 	
+		<style>
+			form{
+			background-color: rgba(157, 196, 95, 0.3);
+			}
+		</style>
 	</head>
 
-	<body background = "images\bg3.jpg" >
+	<body  >
+	
 		<div id="title"> 
 			<span id = "nameFont"> <a href="index.html">Java Square </a></span> 
 		</div>
@@ -105,4 +111,3 @@
 	</body>
 
 </html>
-tml>

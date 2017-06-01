@@ -131,7 +131,7 @@
     margin-right:auto;
     margin-top: 80px;
     max-width: 500px;
-    background: #F8F8F8 ;
+    background: rgba(216, 218, 76, 0.16);
     padding: 30px 30px 20px 30px;
     font: 12px Arial, Helvetica, sans-serif;
     color: #666;
@@ -139,6 +139,7 @@
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
     }
+    
     .feedback h1 {
     font: 24px "Trebuchet MS", Arial, Helvetica, sans-serif;
     padding: 20px 0px 20px 40px;
