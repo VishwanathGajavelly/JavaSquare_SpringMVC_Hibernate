@@ -6,18 +6,23 @@
   <display-name>Archetype Created Web Application</display-name>
   
   	<servlet>
-		<servlet-name>JavaSquare</servlet-name>
+		
+		<servlet-name>index</servlet-name>
+		
 		<servlet-class>
 			org.springframework.web.servlet.DispatcherServlet
 		</servlet-class>
+		
 		<init-param>
 	        <param-name>contextConfigLocation</param-name>
 	        <param-value>/WEB-INF/JavaSquare-servlet.xml</param-value>
-   		 </init-param>
+	     </init-param>
+    	
     	<load-on-startup>1</load-on-startup>
 	</servlet>
+	
 	<servlet-mapping>
-		<servlet-name>JavaSquare</servlet-name>
+		<servlet-name>index</servlet-name>
 		<url-pattern>/</url-pattern>
 	</servlet-mapping>
   
