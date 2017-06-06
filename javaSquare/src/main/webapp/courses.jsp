@@ -18,7 +18,7 @@
 	
 		<div id="title"> 
 		
-			<span id = "nameFont"> <a href="index.html">Java Square </a></span> 
+			<span id = "nameFont"> <a href="index.jsp">Java Square </a></span> 
 		</div>
 		
 		<ul class = "parent" id="ul" >
